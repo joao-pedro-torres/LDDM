@@ -9,7 +9,7 @@ Repositório de códigos dos exercícios da disciplina de Laboratório de Desenv
 
 ## Explanação acerca da entrega
 
-A partir do exercício lddm07, as funcionalidades dos exercícios anteriores são compiladas mantendo a coerência entre as páginas
+Os exercícios lddm07 e lddm08, as funcionalidades dos exercícios anteriores são compiladas mantendo a coerência entre as páginas
 e mostrando na página **About**, acessível pela BottomBar, um resumo das funcionalidades contempladas pela aplicação que remetem
 aos requisitos dos exercícios anteriores.
 
