@@ -1,7 +1,7 @@
 # Entrega de exercícios
-#### Autor: João Pedro Torres de Souza Silva
+**Autor: João Pedro Torres de Souza Silva**
 
-#### Matrícula: 741624 
+**Matrícula: 741624**
 
 Repositório de códigos dos exercícios da disciplina de Laboratório de Desenvolvimento Mobile propostos nos slides das aulas.
 
@@ -9,10 +9,12 @@ Repositório de códigos dos exercícios da disciplina de Laboratório de Desenv
 
 ## Explanação acerca da entrega
 
-A partir do exercício lddm07, as funcionalidades dos exercícios anteriores são compiladas mantendo a coerência entre as páginas.
+A partir do exercício lddm07, as funcionalidades dos exercícios anteriores são compiladas mantendo a coerência entre as páginas
+e mostrando na página **About**, acessível pela BottomBar, um resumo das funcionalidades contempladas pela aplicação que remetem
+aos requisitos dos exercícios anteriores.
 
 *   **lddm04**
-    
+
     Contempla a primaira aplicação de Stateless Widgets em uma página de login não 
     funcional, contendo os campos **E-mail** e **Password** para entrada de texto, um
     botão **Enter** e um botão **Create an account**.
